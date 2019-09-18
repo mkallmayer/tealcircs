@@ -3,4 +3,4 @@ minimally informative and minmally useful cursor theme for x11 (looks pretty tho
 
 created using @charakterziffers [cursor-toolbox](https://github.com/charakterziffer/cursor-toolbox)
 
-[](theme.png "tealcircs theme")
+![](theme.png "tealcircs theme")
